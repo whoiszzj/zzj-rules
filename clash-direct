@@ -1,0 +1,9 @@
+# NAME: ZZJ-Clash-Direct-Rules.yaml
+# AUTHOR: zzj
+# REPO: https://github.com/whoiszzj/zzj-rules
+# UPDATED: 2024-10-20 20:16
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 1
+# TOTAL: 17
+payload:
+  - DOMAIN-SUFFIX,steamcontent.com

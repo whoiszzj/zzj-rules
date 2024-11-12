@@ -7,3 +7,4 @@
 # TOTAL: 17
 payload:
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,wandb.ai

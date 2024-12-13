@@ -1,10 +1,10 @@
 # NAME: ZZJ-Clash-Proxy-Rules.yaml
 # AUTHOR: zzj
 # REPO: https://github.com/whoiszzj/zzj-rules
-# UPDATED: 2024-10-20 20:16
+# UPDATED: 2024-12-13 10:53
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
 payload:
   - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,thecvf.com

@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,thecvf.com
   - DOMAIN-SUFFIX,aaai.org
   - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN-SUFFIX,leetcode.cn
